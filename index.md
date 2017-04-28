@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /
 ---
 
 # The American Football Store

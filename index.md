@@ -1,7 +1,9 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: default
+layout: page
 ---
-Hello, wtf is going on here
+
+# The American Football Store
+
+> Sweden's personal football equipment provider.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdESd657VMWHgs79nM-boEO18WOSxlUGrTzUqP11auSgknDTw/viewform?embedded=true" width="500" height="900" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
